@@ -7,6 +7,7 @@
 <title>git 형상관리</title>
 </head>
 <body>
-git 형상관리 테스트
+git 형상관리 테스트<br><br>
+재밋당 ㅎㅎ 이따 정훈이랑 쌀국수 먹으러 가야징
 </body>
 </html>
